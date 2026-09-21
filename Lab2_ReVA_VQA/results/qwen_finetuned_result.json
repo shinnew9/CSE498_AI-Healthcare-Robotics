@@ -1,0 +1,1220 @@
+{
+  "QA-000005": {
+    "pred_letter": "D",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000006": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000010": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000021": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000031": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000035": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000039": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000040": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000044": {
+    "pred_letter": "A",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000048": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Temporal Grounding"
+  },
+  "REVA-G003066": {
+    "pred_letter": "D",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000052": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000049": {
+    "pred_letter": "C",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000053": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000056": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000058": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000060": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000071": {
+    "pred_letter": "D",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Structural Layout"
+  },
+  "QA-000072": {
+    "pred_letter": "A",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000073": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000074": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000079": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000083": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000084": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000090": {
+    "pred_letter": "C",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000087": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000097": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000120": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000121": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000133": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000138": {
+    "pred_letter": "D",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000139": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000141": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000144": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000157": {
+    "pred_letter": "A",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000158": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000161": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000165": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000167": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000168": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000172": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000177": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000178": {
+    "pred_letter": "A",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Structural Layout"
+  },
+  "QA-000182": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000183": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000184": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000185": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000186": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000189": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000192": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000195": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000201": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000202": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000203": {
+    "pred_letter": "D",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000210": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000223": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000224": {
+    "pred_letter": "D",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000225": {
+    "pred_letter": "B",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000232": {
+    "pred_letter": "B",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000233": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000236": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000239": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000251": {
+    "pred_letter": "D",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000248": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000253": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000259": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000263": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000267": {
+    "pred_letter": "B",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000273": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000274": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000278": {
+    "pred_letter": "D",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000288": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000292": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000295": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000299": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000304": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000308": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000310": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000312": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000319": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000326": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000327": {
+    "pred_letter": "C",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000333": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000334": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000335": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000341": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000345": {
+    "pred_letter": "B",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000348": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000354": {
+    "pred_letter": "D",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000355": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000357": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000362": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000371": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000374": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000387": {
+    "pred_letter": "D",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000400": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000408": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000410": {
+    "pred_letter": "B",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000415": {
+    "pred_letter": "D",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000416": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000417": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000418": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000434": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000437": {
+    "pred_letter": "D",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000440": {
+    "pred_letter": "B",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000447": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000448": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000449": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000451": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000455": {
+    "pred_letter": "C",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000463": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000466": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000472": {
+    "pred_letter": "A",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000491": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000492": {
+    "pred_letter": "D",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000510": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000512": {
+    "pred_letter": "A",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000522": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000528": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000529": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000530": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000532": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "REVA-G003070": {
+    "pred_letter": "A",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "REVA-G003071": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000537": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000534": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000540": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000545": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000547": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000548": {
+    "pred_letter": "D",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000555": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000573": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000576": {
+    "pred_letter": "B",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000579": {
+    "pred_letter": "A",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000582": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000584": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000591": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000594": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000597": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000601": {
+    "pred_letter": "A",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000603": {
+    "pred_letter": "B",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000616": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000619": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000620": {
+    "pred_letter": "D",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000629": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000632": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000637": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000639": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000642": {
+    "pred_letter": "A",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000643": {
+    "pred_letter": "B",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000657": {
+    "pred_letter": "C",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000658": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000661": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000669": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000678": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000692": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000695": {
+    "pred_letter": "B",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000698": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000702": {
+    "pred_letter": "A",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Structural Layout"
+  },
+  "QA-000700": {
+    "pred_letter": "D",
+    "gt_letter": "A",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000712": {
+    "pred_letter": "B",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000713": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000714": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000715": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000723": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000725": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000726": {
+    "pred_letter": "D",
+    "gt_letter": "B",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000731": {
+    "pred_letter": "C",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Change Detection"
+  },
+  "QA-000739": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000742": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000745": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000760": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000763": {
+    "pred_letter": "A",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000766": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000778": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000782": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000784": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000785": {
+    "pred_letter": "A",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000788": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000789": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000791": {
+    "pred_letter": "A",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000798": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000799": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Consequence Reasoning"
+  },
+  "QA-000800": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "REVA-G003075": {
+    "pred_letter": "A",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000808": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Trend and Pattern"
+  },
+  "QA-000813": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000811": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000817": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000822": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000829": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Geometric Relation"
+  },
+  "QA-000832": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Structural Layout"
+  },
+  "QA-000842": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000845": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "REVA-G003076": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Temporal Grounding"
+  },
+  "QA-000848": {
+    "pred_letter": "C",
+    "gt_letter": "D",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000858": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "General Understanding"
+  },
+  "QA-000866": {
+    "pred_letter": "A",
+    "gt_letter": "C",
+    "acc": 0,
+    "question_type": "Perspective and Viewpoint"
+  },
+  "QA-000872": {
+    "pred_letter": "D",
+    "gt_letter": "D",
+    "acc": 1,
+    "question_type": "Causation Reasoning"
+  },
+  "QA-000874": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  },
+  "QA-000877": {
+    "pred_letter": "C",
+    "gt_letter": "C",
+    "acc": 1,
+    "question_type": "Object and Land Cover Recognition"
+  },
+  "QA-000880": {
+    "pred_letter": "A",
+    "gt_letter": "A",
+    "acc": 1,
+    "question_type": "Change Detection"
+  },
+  "QA-000891": {
+    "pred_letter": "B",
+    "gt_letter": "B",
+    "acc": 1,
+    "question_type": "Hypothetical Reasoning"
+  }
+}
