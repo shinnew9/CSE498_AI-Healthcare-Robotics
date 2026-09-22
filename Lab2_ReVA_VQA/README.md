@@ -18,7 +18,7 @@ All three models were evaluated on identical questions with `MAX_FRAMES=4`.
 
 | Path | Description |
 |---|---|
-| `lab2.ipynb` | Full report — commands executed, results, qualitative analysis, environment issues |
+| `results/lab2_reports.ipynb` | Full report — commands executed, results, qualitative analysis, environment issues |
 | `code/` | The four files containing the completed `TODO(student)` functions |
 | `results/` | Evaluation outputs for all three models |
 | `infra_fixes.diff` | Seven fixes to the provided infrastructure code (library-version and GPU-architecture compatibility) |
@@ -44,7 +44,7 @@ Training and evaluation ran on shared RTX 2080 Ti GPUs (11 GB, Turing). This req
 - Evaluation batch size reduced from the hard-coded 8 to 2 / 1
 - DeepSpeed ZeRO-3 with CPU parameter offload for training
 
-Full details, including every deviation from the recommended settings, are in §5 and §6 of `lab2.ipynb`.
+Full details, including every deviation from the recommended settings, are in §5 and §6 of `results/lab2_reports.ipynb`.
 
 ## Not included
 
